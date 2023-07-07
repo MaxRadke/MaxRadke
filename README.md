@@ -3,7 +3,7 @@
 <p align="left">
 
 <hr>
-![Gif](URL do GIF)
+![Gif](https://github.com/MaxRadke/MaxRadke/blob/ab8eab0e8588434f649b99170a8e80a71f0cbd8a/tis100-sad.gif)
 
 
 
