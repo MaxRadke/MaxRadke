@@ -1,8 +1,9 @@
+- Olá, Me chamo Max e eventualmente quero criar servidores de jogos
+-   HTML - CSS - JS
 <p align="left">
 
 <hr>
 
-  Olá. Me chamo Max e eventualmente quero criar servidores de jogos<br/><br/>
 
 
 </p>
