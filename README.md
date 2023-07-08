@@ -1,5 +1,4 @@
 # Web Developer student 
-![Gif](tis100-sad.gif) 
 - Hello, My name is Max
 -   HTML - CSS - JS
 <p align="left">
@@ -24,13 +23,13 @@
  
  <br>
  
-  ### Contato
- 
+  ### Contact
+
 <div> 
  
   <a href="https://www.youtube.com/channel/UCZGxNNk0AO0i2baPnvbzpGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/MaxRadkeDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
- 
+  ![Gif](tis100-sad.gif) 
 
 </div>
