@@ -1,6 +1,4 @@
 # Web Developer student 
-- Hello, My name is Max
--   HTML - CSS - JS
 
  <div style="display: inline_block"><br>
    <a href="https://github.com/MaxRadke">
