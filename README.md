@@ -1,13 +1,7 @@
 # Web Developer student 
 - Hello, My name is Max
 -   HTML - CSS - JS
-<p align="left">
 
-<hr>
-
-
-
-</p>
  <div style="display: inline_block"><br>
    <a href="https://github.com/MaxRadke">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxRadke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
