@@ -9,7 +9,7 @@
 
 
 </p>
- <div>
+ <div style="display: flex;">
    <a href="https://github.com/MaxRadke">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaxRadke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRadke&layout=compact&langs_count=6&theme=dark"/>
