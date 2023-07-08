@@ -1,5 +1,5 @@
 
-![Gif](tis100-sad.gif)
+![Gif](tis100-sad.gif) 
 - Hello, My name is Max
 -   HTML - CSS - JS
 <p align="left">
@@ -9,10 +9,10 @@
 
 
 </p>
- <div style="display: flex;">
+ <div>
    <a href="https://github.com/MaxRadke">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaxRadke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRadke&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxRadke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRadke&layout=compact&langs_count=6&theme=dark"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
